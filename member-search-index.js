@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Operaciones","l":"calcularLogaritmo(int, int)","u":"calcularLogaritmo(int,int)"},{"p":"<Unnamed>","c":"Operaciones","l":"calcularPotencia(int, int)","u":"calcularPotencia(int,int)"},{"p":"<Unnamed>","c":"Operaciones","l":"Operaciones()","u":"%3Cinit%3E()"}];updateSearchResults();
